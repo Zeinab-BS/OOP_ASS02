@@ -16,7 +16,6 @@ namespace OOP_ASS02
             shipments = new Shipment[20];
             CenterName = Name;
 
-
         }
 
 
