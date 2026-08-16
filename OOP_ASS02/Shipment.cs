@@ -17,8 +17,6 @@ namespace OOP_ASS02
 
 
 
-
-
         #endregion
 
         #region Properties
