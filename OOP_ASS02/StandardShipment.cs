@@ -9,6 +9,7 @@ namespace OOP_ASS02
         public StandardShipment(string tc,string descrip,decimal wg,decimal df, DeliveryAddress destin):base(tc,descrip,wg,df,destin)
         {
             
+
         }
 
 
