@@ -9,6 +9,7 @@ namespace OOP_ASS02
 		private string destinationCountry;
         private decimal customsFee;
 
+
         public string  DestinationCountry
         {
 			get { return destinationCountry; }
